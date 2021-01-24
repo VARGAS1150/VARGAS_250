@@ -1,4 +1,4 @@
-# wabot-aq
+# VARGAS_250 BOT
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
